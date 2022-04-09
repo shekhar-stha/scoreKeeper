@@ -1,0 +1,12 @@
+.card{
+    margin: auto;
+    width: 50%;
+}
+.form-select{
+    width: 15%;
+    margin-left: 1rem;
+    border-radius: 10%;
+}
+button{
+    margin: 20px;
+}
